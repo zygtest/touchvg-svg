@@ -1,20 +1,26 @@
-# built application files
-*.apk
-*.ap_
-
-# files for the dex VM
-*.dex
-
-# Java class files
-*.class
-
-# generated files
-bin/
-gen/
-
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Eclipse project files
-.classpath
-.project
+build
+*.ncb
+*.opt
+*.suo
+*.user
+*.aps
+*.obj
+*.*sdf
+ipch
+*.ch*
+*.hh*
+*.o
+*.a
+*.d
+*.tmp
+*_wrap.cxx
+*~
+*.DS_Store
+xcuserdata
+._*
+.metadata
+bin
+gen
+obj
+assets
+*.db
